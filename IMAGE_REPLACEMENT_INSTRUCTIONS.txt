@@ -1,0 +1,35 @@
+INTELLECT MEDIA Portfolio - Image Replacement Instructions
+========================================================
+
+To complete your portfolio customization, please follow these steps:
+
+1. PHOTO REPLACEMENT:
+   - Save your personal photo as "intellect-media-photo.jpg"
+   - Place it in the "images" folder
+   - Recommended size: 400x400px or larger
+   - Supported formats: JPG, PNG, or WebP
+
+2. WHAT'S BEEN UPDATED:
+   ✓ Brand colors changed to INTELLECT MEDIA red (#dc2626) and green (#16a34a)
+   ✓ Brand name updated from "First" to "INTELLECT MEDIA"
+   ✓ All avatar images updated to reference your photo
+   ✓ Main hero image updated to reference your photo
+   ✓ Personal information updated to INTELLECT MEDIA
+   ✓ Contact information updated
+   ✓ About section content customized
+
+3. CURRENT STATUS:
+   - All HTML and CSS files have been updated
+   - Portfolio is ready to use once you add your photo
+   - The placeholder file shows what the image should look like
+
+4. TO VIEW YOUR PORTFOLIO:
+   - Open "index.html" in your web browser
+   - Your photo will appear once you replace the placeholder
+
+5. CUSTOMIZATION OPTIONS:
+   - You can further customize the content in index.html
+   - Colors can be adjusted in css/templatemo-first-portfolio-style.css
+   - Add your actual projects and services as needed
+
+Your portfolio now reflects the INTELLECT MEDIA branding with your red and green color scheme!
